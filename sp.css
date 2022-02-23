@@ -1,0 +1,62 @@
+.box4>img
+{
+    height: 50%;
+    width: 100%;
+    border-radius: 3px;
+    top: 10px;
+}
+.box4
+{
+    height: 100%;
+    width: 100%; 
+    border-radius:10px;
+    margin:0%;
+    background-color: white;
+    text-align: center;
+    position: relative;
+}
+.box4:hover
+{
+    top: 10px;
+    box-shadow: 3px 3px skyblue;
+}
+.box-25
+{
+    height: 45%;
+    float: left;
+    width: 15%;
+    margin-left: 1.2%;
+    margin-top: 1%;
+    position: relative;
+}
+.bigbox
+{
+    background-color: rgb(231, 231, 169);
+    width: 90%;
+    height:600px;
+    float: left;
+    margin-bottom: 80px;
+    margin: 0 auto;
+    text-align: center;
+}
+body
+{
+    height: 100%;
+    width: 100%;
+}
+.gia
+{
+    height: 30px;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    color: red;
+}
+.thongtin
+{
+    height: 60px;
+    width: 100%;
+    position: relative;
+    color: skyblue;
+    bottom: 0px;
+}
